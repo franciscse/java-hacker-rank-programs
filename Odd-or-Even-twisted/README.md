@@ -20,6 +20,6 @@
 
 - 24
 
-3. **Sample Output 1**
+2. **Sample Output 1**
 
 - Not Weird
