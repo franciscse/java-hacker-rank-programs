@@ -7,19 +7,13 @@
 - If N is even and greater than 20, print Not Weird
 - Complete the stub code provided in your editor to print whether or not N is weird.
 
-1.  **Sample Input 0**
-  
- - 3
+# Sample Input 0
+  3
+# Sample Output 0
+  Weird
 
+# Sample Input 1
+ 24
 
-1. **Sample Output 0**
-  
-- Weird
-
-2. **Sample Input 1**
-
-- 24
-
-2. **Sample Output 1**
-
-- Not Weird
+# Sample Output 1
+ Not Weird
