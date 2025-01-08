@@ -14,7 +14,7 @@
 - if the original input has less than three digits, you must pad your output's leading digits with zeroes.
 
 #### Sample Input
-java 100
+java 100 <br>
 cpp 65
 python 50
 
