@@ -21,9 +21,9 @@ python 50
 #### Sample Output
 
 ================================ <br>
-java           100 <br>
-cpp            065 <br>
-python         050 <br>
+java                 100 <br>
+cpp                 065 <br>
+python              050 <br>
 ================================<br>
 
 #### Explanation
