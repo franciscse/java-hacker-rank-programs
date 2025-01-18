@@ -46,7 +46,6 @@ The program takes an integer input and checks if it falls within the range of ea
 **Output:**
 
 -150 can be fitted in:<br>
-
 short<br>
 int<br>
 long 150000 can be fitted in:<br>
