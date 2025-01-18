@@ -48,11 +48,15 @@ The program takes an integer input and checks if it falls within the range of ea
 -150 can be fitted in:<br>
 short<br>
 int<br>
-long 150000 can be fitted in:<br>
+long <br>
+150000 can be fitted in:<br>
 int<br>
-long 1500000000 can be fitted in:   <br>
+long <br>
+1500000000 can be fitted in:   <br>
 int<br>
-long 213333333333333333333333333333333333 can't be fitted anywhere. -100000000000000 can be fitted in:<br>
+long <br>
+213333333333333333333333333333333333 can't be fitted anywhere.<br>
+-100000000000000 can be fitted in:<br>
 long   <br>
 
 
