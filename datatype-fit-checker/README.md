@@ -19,14 +19,14 @@ The program takes an integer input and checks if it falls within the range of ea
 
 ## How to Run
 
-1.  Save the code as a `.java` file (e.g., `DataTypeChecker.java`).
+1.  Save the code as a `.java` file (e.g., `Solution.java`).
 2.  Compile the code using a Java compiler:
     ```bash
-    javac DataTypeChecker.java
+    javac Solution.java
     ```
 3.  Run the compiled code:
     ```bash
-    java DataTypeChecker
+    java solution
     ```
 4.  Enter the number of test cases when prompted.
 5.  For each test case, enter an integer.
