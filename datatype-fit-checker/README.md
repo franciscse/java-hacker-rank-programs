@@ -35,25 +35,25 @@ The program takes an integer input and checks if it falls within the range of ea
 
 **Input:**
 
-5
--150
-150000
-1500000000
-213333333333333333333333333333333333
--100000000000000
+5<br>
+-150<br>
+150000<br>
+1500000000<br>
+213333333333333333333333333333333333<br>
+-100000000000000<br>
 
 
 **Output:**
 
--150 can be fitted in:
+-150 can be fitted in:<br>
 
-short
-int
-long 150000 can be fitted in:
-int
-long 1500000000 can be fitted in:   
-int
-long 213333333333333333333333333333333333 can't be fitted anywhere. -100000000000000 can be fitted in:
-long   
+short<br>
+int<br>
+long 150000 can be fitted in:<br>
+int<br>
+long 1500000000 can be fitted in:   <br>
+int<br>
+long 213333333333333333333333333333333333 can't be fitted anywhere. -100000000000000 can be fitted in:<br>
+long   <br>
 
-Sources and related content
+
