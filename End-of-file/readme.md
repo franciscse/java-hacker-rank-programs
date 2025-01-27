@@ -32,3 +32,18 @@ The Java program `EOFRead.java` provides a solution using the `Scanner` class an
 ## Sample Input and Output
 
 **Input:**
+Hello world <br>
+I am a file<br>
+Read me until end-of-file.<br>
+
+
+**Output:**
+
+1 Hello world<br>
+2 I am a file<br>
+3 Read me until end-of-file.<br>
+
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests for improvements or alternative solutions.
